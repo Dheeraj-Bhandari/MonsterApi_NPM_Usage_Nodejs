@@ -1,11 +1,7 @@
 
-# Monsterapi
+# Monsterapi Usage in NodeJs
 
-[![NPM Version](https://img.shields.io/npm/v/your-package-name.svg)](https://www.npmjs.com/package/your-package-name)
-[![Node Version](https://img.shields.io/node/v/your-package-name.svg)](https://www.npmjs.com/package/your-package-name)
-[![License](https://img.shields.io/npm/l/your-package-name.svg)](https://github.com/your-username/your-repo/blob/master/LICENSE)
 
-Brief description of your package and its functionalities.
 
 ## Installation
 
