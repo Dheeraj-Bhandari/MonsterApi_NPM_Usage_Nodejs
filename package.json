@@ -1,0 +1,16 @@
+{
+  "name": "monsterapi_npm_usage_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "monsterapi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "monsterapi": "^0.0.3"
+  }
+}
